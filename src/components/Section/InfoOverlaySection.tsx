@@ -19,9 +19,9 @@ export const InfoOverlaySection = () => {
             <Image 
               src="/images/img_logo_1.png" 
               alt="School Logo" 
-              width={337} 
-              height={325} 
-              className="hidden lg:block absolute bottom-4 right-4 w-[200px] h-[200px] xl:w-[337px] xl:h-[325px]"
+              width={280} 
+              height={240} 
+              className="hidden lg:block absolute bottom-4 right-4 w-[200px] h-[200px] xl:w-[280px] xl:h-[240px]"
             />
           </div>
         </div>
